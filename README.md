@@ -7,7 +7,7 @@ Welcome to the AI Course Materials repository! This repository was created for t
 The repository is organized as follows:
 
 
-- `Computer assignments/`: This folder contains the computer assignments for the course.
+- `Computer-assignments/`: This folder contains the computer assignments for the course.
   -  Each CA is in a separate subfolder.
 
 - `final-project/`: This folder contains the final project for the course.
