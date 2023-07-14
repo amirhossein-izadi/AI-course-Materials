@@ -10,4 +10,4 @@ The Puzzle 8 problem involves a 3x3 grid with eight numbered tiles (numbered fro
 
 - [A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 - [Recursive Best-First Search](https://en.wikipedia.org/wiki/Best-first_search#Recursive_best-first_search)
-```
+
