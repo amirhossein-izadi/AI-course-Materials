@@ -10,7 +10,7 @@ The repository is organized as follows:
 - `Computer-assignments/`: This folder contains the computer assignments for the course.
   -  Each CA is in a separate subfolder.
 
-- `final-project/`: This folder contains the final project for the course.
+- `Final-project/`: This folder contains the final project for the course.
   -  it's a Connect4 game implemented with both the minimax algorithm and Q-learning.
 
 - `README.md`: This file that you're reading right now. It provides an overview of the repository and instructions for getting started.
