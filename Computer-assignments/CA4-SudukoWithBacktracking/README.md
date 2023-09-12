@@ -1,1 +1,2 @@
-
+# Sudoku Solver with Backtracking
+Maki Kaji is determined to win a Sudoku competition, but after numerous attempts, they've realized their lack of success. To overcome this, Maki has decided to solve the problem unethically. They want you to write a program that can solve Sudoku puzzles for them. Since they lack computer skills, they're relying on you to create a program that can solve Sudoku puzzles.
