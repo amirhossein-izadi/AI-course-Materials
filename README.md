@@ -1,6 +1,6 @@
 # AI Course Materials
 
-Welcome to the AI Course Materials repository! This repository was created for the Artificial Intelligence course instructed by Dr. Abdoos, held in spring 2023 at Shahid Beheshti University. The repository includes the computer assignments and final project for the course.
+Welcome to the AI Course Materials repository! This repository was created for the Artificial Intelligence course instructed by [Dr.Abdoos](https://scholar.google.com/citations?user=SxxCUagAAAAJ&hl=en), held in spring 2023 at Shahid Beheshti University. The repository includes the computer assignments and final project for the course.
 
 ## Contents
 
